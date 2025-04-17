@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete React Redux Documentation Review",
+      "description": "Go through the updated Redux Toolkit documentation and take notes on best practices",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Fix Navigation Bug in Header",
+      "description": "Address the mobile responsive navigation issue when screen width is below 768px",
+      "status": "in-progress",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "title": "Write Unit Tests for TaskSlice",
+      "description": "Create comprehensive tests for reducer actions and async thunks in the task slice",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "title": "Update Project Dependencies",
+      "description": "Review and update npm packages to their latest stable versions, ensure compatibility",
+      "status": "completed",
+      "priority": "low"
+    },
+    {
+      "id": "5",
+      "title": "Implement Dark Mode Theme",
+      "description": "Add dark mode support using CSS variables and create a theme toggle component",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}

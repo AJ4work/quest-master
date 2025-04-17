@@ -1,28 +1,54 @@
-# To-Do List Application
+# Quest Master - Epic Task Management
 
-A web-based To-Do List application for managing your daily tasks. This project features a modern Express backend with Neon PostgreSQL for data persistence and a fast, responsive frontend built with React Redux and Vite.
+A gamified task management application that transforms your daily tasks into epic quests. Built with React, Redux Toolkit, TypeScript, and Vite, featuring an immersive RPG-inspired interface.
 
 ## Project Overview
 
-The To-Do List Application allows users to create, view, update, and delete tasks. It includes features such as task categorization, prioritization, and optional user authentication. The app is designed with a focus on simplicity, performance, and scalability.
+Quest Master turns productivity into an adventure, where each task becomes a quest to conquer. Level up your productivity through an engaging, game-like experience with features like experience points, achievement levels, and quest difficulties.
 
 ## Features
 
-- **CRUD Operations:** Create, read, update, and delete tasks.
-- **Filtering & Sorting:** Filter tasks by status, category, or priority and sort by due date.
-- **API Integration:** Asynchronous API calls using Axios.
-  
+- **Quest System:**
+  - Transform tasks into epic quests
+  - Three difficulty levels: Epic, Standard, and Simple
+  - Quest completion tracking and progress visualization
+  - Detailed quest view with editable properties
+
+- **Gamification Elements:**
+  - Progress tracking with animated ring display
+  - Achievement levels (Bronze, Silver, Gold)
+  - Visual feedback for completed quests
+  - Quest difficulty badges
+
+- **Modern UI/UX:**
+  - Immersive fantasy-themed interface
+  - Responsive design with elegant animations
+  - Gradient effects and themed components
+  - Interactive quest management
+
+- **Technical Features:**
+  - Type-safe development with TypeScript
+  - State management with Redux Toolkit
+  - Real-time quest updates
+  - Modular component architecture
+
 ## Technologies
 
-- **Backend:**  
-  - Express.js  
-  - Neon PostgreSQL (via the `pg` library)  
-  - Node.js  
-- **Frontend:**  
-  - React with Redux Toolkit  
-  - Vite (for fast development and build times)  
-  - Axios (for API communication)  
-- **Others:**  
-  - Git for version control  
-  - ESLint/Prettier for code quality
+- **Core:**
+  - React 19
+  - Redux Toolkit
+  - TypeScript
+  - Vite
+
+- **UI Components:**
+  - shadcn/ui components
+  - TailwindCSS with custom theming
+  - Custom animations
+  - Gradient effects
+
+- **Development Tools:**
+  - ESLint with TypeScript rules
+  - Modern module bundling
+  - Hot Module Replacement
+  - Type-safe development
 
