@@ -1,5 +1,8 @@
 # Quest Master - Epic Task Management
 
+![Quest Master Image](https://github.com/user-attachments/assets/f8476995-46e8-423c-b41b-2feecda33897)
+
+
 A gamified task management application that transforms your daily tasks into epic quests. Built with React, Redux Toolkit, TypeScript, and Vite, featuring an immersive RPG-inspired interface.
 
 ## Project Overview
